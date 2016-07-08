@@ -13,7 +13,7 @@
     "test": "node tests/test.js && node tests/test-sync.js"
   },
   "dependencies": {
-    "minimatch": "0.x",
+    "minimatch": "3.x",
     "glob": "5.x"
   },
   "licenses": [
